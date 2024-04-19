@@ -16,14 +16,14 @@
   z-index: 2;
 
   /* Add customization here  */
-  background-color: red;
+  background-color: #FF0000;
 }
 
 #tooltip.hidden {
   display: none;
 
   /* Add customization here  */
-  background-color: red;
+  background-color: #FF0000;
 }
 
 #tooltip p {
@@ -33,7 +33,7 @@
   line-height: 15px;
 
   /* Add customization here  */
-  background-color: red;
+  background-color: #FF0000;
 }
 
 .reportTable {
@@ -44,7 +44,7 @@
   border-spacing: 3px;
 
   /* Add customization here  */
-  background-color: red;
+  background-color: #FF0000;
 }
 
 .reportTable th {
@@ -56,7 +56,7 @@
   padding: 5px;
 
   /* Add customization here  */
-  background-color: red;
+  background-color: #FF0000;
 }
 
 .reportTable td {
@@ -68,28 +68,28 @@
   border-collapse: collapse;
 
   /* Add customization here  */
-  background-color: red;
+  background-color: #FF0000;
 }
 
 .left {
   text-align: left;
 
   /* Add customization here  */
-  background-color: red;
+  background-color: #FF0000;
 }
 
 .right {
   text-align: right !important;
 
   /* Add customization here  */
-  background-color: red;
+  background-color: #FF0000;
 }
 
 .indent {
   padding-left: 15px !important;
 
   /* Add customization here  */
-  background-color: red;
+  background-color: #FF0000;
 }
 
 .subtotal {
@@ -98,7 +98,7 @@
   background: #d3d3d3;
 
   /* Add customization here  */
-  background-color: red;
+  background-color: #FF0000;
 }
 
 .total {
@@ -106,7 +106,7 @@
   font-weight: bold !important;
 
   /* Add customization here  */
-  background-color: red;
+  background-color: #FF0000;
 }
 
 .total.transposed {
@@ -114,5 +114,5 @@
   background: #d3d3d3;
 
   /* Add customization here  */
-  background-color: red;
+  background-color: #FF0000;
 }
