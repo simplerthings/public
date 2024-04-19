@@ -16,12 +16,14 @@
   z-index: 2;
 
   /* Add customization here  */
+  background-color: red;
 }
 
 #tooltip.hidden {
   display: none;
 
   /* Add customization here  */
+  background-color: red;
 }
 
 #tooltip p {
@@ -31,6 +33,7 @@
   line-height: 15px;
 
   /* Add customization here  */
+  background-color: red;
 }
 
 .reportTable {
@@ -53,6 +56,7 @@
   padding: 5px;
 
   /* Add customization here  */
+  background-color: red;
 }
 
 .reportTable td {
@@ -64,24 +68,28 @@
   border-collapse: collapse;
 
   /* Add customization here  */
+  background-color: red;
 }
 
 .left {
   text-align: left;
 
   /* Add customization here  */
+  background-color: red;
 }
 
 .right {
   text-align: right !important;
 
   /* Add customization here  */
+  background-color: red;
 }
 
 .indent {
   padding-left: 15px !important;
 
   /* Add customization here  */
+  background-color: red;
 }
 
 .subtotal {
@@ -90,6 +98,7 @@
   background: #d3d3d3;
 
   /* Add customization here  */
+  background-color: red;
 }
 
 .total {
@@ -97,6 +106,7 @@
   font-weight: bold !important;
 
   /* Add customization here  */
+  background-color: red;
 }
 
 .total.transposed {
@@ -104,4 +114,5 @@
   background: #d3d3d3;
 
   /* Add customization here  */
+  background-color: red;
 }
